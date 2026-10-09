@@ -17,8 +17,7 @@
   }
 
   function home(mood){
-    var h='<h1>Let the verse speak to you.</h1>'+
-      '<p class="lede">Iqbal urged reading the Quran as though it were being revealed to you, in this moment, about your own life. Here you can sit with a verse, slowly, and let it meet you where you are.</p>';
+    var h='<h1>Let the verse speak to you.</h1>';
     var d=daily();
     h+='<div class="card"><div class="ref">Verse for today</div><div class="arabic">'+d.arabic+'</div>'+
        '<p class="translit">'+esc(d.theme)+'</p><p style="text-align:center"><a class="btn" href="#/verse/'+d.ref+'">Reflect on this verse</a></p></div>';
