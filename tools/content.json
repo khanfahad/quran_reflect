@@ -1,82 +1,307 @@
 {
-"94:5": {"theme":"Hardship and hope","moods":["overwhelmed","hopeless"],
- "intro":"Ease is not promised after the hardship, but with it. Notice: it may already be present somewhere in your life, small and easy to miss.",
- "questions":["What is the hardest thing you are carrying right now? Name it plainly, without softening it.","Where, even a little, is there ease alongside it today? A person, a breath, a moment of relief?","If ease is already travelling with this hardship, what changes in how you hold it?"],
- "intention":"Today I will notice one small ease and thank Allah for it."},
-"2:286": {"theme":"You are not asked for more than you can bear","moods":["overwhelmed","anxious"],
- "intro":"Read this as a gentle correction to the voice that says you cannot cope. The verse does not deny that it is heavy; it says the weight is measured to you.",
- "questions":["What feels like too much right now? List it as it comes.","Which of those things is truly yours to carry today, and which belong to tomorrow, or to others, or to Allah?","Think of a past burden you believed you couldn't bear. What got you through it?"],
- "intention":"I will carry only today's share, and hand the rest to Allah."},
-"13:28": {"theme":"Where the heart finds rest","moods":["anxious","distant"],
- "intro":"The verse names a cure for restlessness without dismissing it. Before reading, notice where your body holds tension.",
- "questions":["Where do you feel unrest in your body right now? Chest, stomach, shoulders?","What do you usually reach for to quiet your heart, and does it work for long?","What would a few minutes of real remembrance (dhikr, du'a, silent presence) look like for you today?"],
- "intention":"I will give my heart a few minutes of remembrance before I reach for anything else."},
-"2:152": {"theme":"Being remembered","moods":["lonely","distant"],
- "intro":"Notice the direction of the verse: when you remember Allah, you are remembered. You are held in mind long before you feel it.",
- "questions":["When did you last feel remembered, truly seen by someone, or by Allah?","What gets in the way of remembering Him lately? Busyness, guilt, numbness?","If you are already remembered, what might you let go of trying to earn?"],
- "intention":"I will remember Allah once today in my own words, and trust that I am remembered."},
-"93:3": {"theme":"You have not been forsaken","moods":["lonely","hopeless","distant"],
- "intro":"This was revealed to comfort a heart that feared abandonment. Let it be said to you, by name, in your own situation.",
- "questions":["Where do you feel abandoned or unseen right now, by people or by Allah?","What is the story your mind tells about why?","Imagine Allah saying 'I have not forsaken you' to that exact feeling. What happens inside you?"],
- "intention":"When the feeling of abandonment rises, I will answer it with this verse."},
-"39:53": {"theme":"Never despair of mercy","moods":["ashamed","hopeless"],
- "intro":"Addressed to 'My servants who have transgressed against themselves', the first words are 'O My servants', not 'O sinners'. Notice the tenderness of how you are called.",
- "questions":["What do you most struggle to forgive yourself for?","What would change if you believed Allah's mercy was larger than that thing?","What is one honest step toward Him you could take today? A du'a, a repair, a prayer?"],
- "intention":"I will turn to Allah with what I am ashamed of rather than hide it from Him."},
-"3:139": {"theme":"Do not weaken, do not grieve","moods":["grief","disappointed"],
- "intro":"It was revealed after a painful loss. It doesn't forbid sorrow; it refuses to let sorrow convince you that you are finished.",
- "questions":["What loss or setback are you still carrying?","Where has it made you feel smaller or weaker than you really are?","What strength or part of your faith is still intact, even now?"],
- "intention":"I will let myself grieve without letting it define me."},
-"9:40": {"theme":"Allah is with us","moods":["anxious","lonely"],
- "intro":"Said in a cave, with pursuers close, by a man to his frightened companion. Imagine the stillness in that moment.",
- "questions":["What is your 'cave' right now, the narrow place where you feel cornered?","Who or what is with you there that you may be overlooking?","How would you act today if you truly believed 'Allah is with us'?"],
- "intention":"In my narrow place, I will say: Allah is with us."},
-"65:3": {"theme":"Reliance and provision","moods":["anxious","overwhelmed"],
- "intro":"Tawakkul is not passivity; it is doing your part and releasing the outcome. Read it slowly, noticing what you are gripping.",
- "questions":["What outcome are you trying hardest to control?","What is your part in it, and what is not yours?","What would it feel like to put your effort in and set the result down?"],
- "intention":"I will do my part, then release the outcome to Allah."},
-"2:216": {"theme":"Not knowing the whole story","moods":["disappointed","grief"],
- "intro":"A verse for a plan that fell apart. It doesn't call the pain unreal; it reminds you that your view is partial.",
- "questions":["What did you want that you didn't get, or what happened that you didn't want?","What has a past disappointment turned out to give you, in hindsight?","What would it mean to trust that Allah sees the part you can't?"],
- "intention":"I will hold my disappointment with trust that I see only part of the picture."},
-"50:16": {"theme":"Closer than the jugular vein","moods":["lonely","distant","anxious"],
- "intro":"He knows what your soul whispers to you. Nothing in you is hidden from Him, and that can be frightening, or deeply comforting.",
- "questions":["What do you whisper only to yourself, the thing you've never said aloud?","What does it feel like to know He already hears it, with full knowledge and mercy?","What would you say to Him if you didn't have to polish it?"],
- "intention":"I will speak honestly to Allah, without polishing my words."},
-"2:186": {"theme":"I am near","moods":["lonely","distant"],
- "intro":"Notice that there is no intermediary in this verse. The question is asked, and the answer comes straight back: I am near.",
- "questions":["What do you most want to ask for, if you let yourself ask?","What stops you from asking? Doubt, shame, feeling unworthy?","What would it mean to treat the answer, 'I am near', as true right now?"],
- "intention":"I will ask Allah for what is on my heart tonight, plainly and specifically."},
-"20:25": {"theme":"Expand my chest","moods":["anxious","overwhelmed"],
- "intro":"Musa (peace be upon him) asked for an inner capacity before the task itself. A du'a for when the heaviness is in your chest.",
- "questions":["What task or conversation ahead feels bigger than you?","Where is your chest tight? What is it holding?","What would 'expansion' look like, not the problem disappearing, but you having more room within it?"],
- "intention":"Before I face the thing I dread, I will make this du'a."},
-"57:23": {"theme":"Not grieving what's missed","moods":["grief","disappointed"],
- "intro":"A verse about loosening our grip: what passed you by was never going to be held by your effort alone.",
- "questions":["What have you lost or missed out on that you keep replaying?","What would it mean to grieve it, and still loosen your grip?","What blessing in your hands right now are you at risk of overlooking?"],
- "intention":"I will name one thing I still have and be grateful for it."},
-"12:86": {"theme":"Bringing my sorrow to Allah","moods":["grief","lonely"],
- "intro":"Yaqub (peace be upon him) lost a son and wept until his sight faded. He did not hide it; he took it to Allah. This is grief done with faith.",
- "questions":["What sorrow have you been holding quietly, or in front of people but not in front of Allah?","What would it mean to complain to Him, as Yaqub did, with full honesty?","Is there someone safe you could also share this with?"],
- "intention":"I will bring my sorrow to Allah tonight, in full."},
-"3:173": {"theme":"Sufficient for us is Allah","moods":["anxious","overwhelmed"],
- "intro":"Said when people warned that the odds were against them. The warning increased them in faith. Notice what fear does to you, and what this phrase does back.",
- "questions":["What are you afraid of right now? What are people telling you to fear?","What does 'Allah is sufficient for us' take off your shoulders?","Which fear is realistic and needs action, and which just needs to be handed over?"],
- "intention":"When fear speaks loudly, I will answer with: Hasbunallahu wa ni'mal wakeel."},
-"64:11": {"theme":"Hardship and the guided heart","moods":["grief","disappointed","overwhelmed"],
- "intro":"Notice the promise here: whoever believes in Allah, He guides their heart. The guidance is for the heart, in the middle of the hardship.",
- "questions":["What has recently struck you that you didn't expect or choose?","How is your heart responding right now: resisting, numb, softening?","What would 'guidance for the heart' look like in this? Calm, clarity, patience?"],
- "intention":"I will ask Allah to guide my heart through what has happened."},
-"7:23": {"theme":"Owning a mistake and coming back","moods":["ashamed","distant"],
- "intro":"The first words of repentance in human history: no excuses, no blaming, just 'we have wronged ourselves'. Adam and Hawwa (peace be upon them) came back instead of hiding.",
- "questions":["What are you carrying that you haven't owned or brought to Allah?","What's the difference between guilt that pushes you away and guilt that brings you back?","What would turning back look like today, in words, in action, or in repair?"],
- "intention":"I will own what I've done, ask forgiveness, and not stay in hiding."},
-"21:87": {"theme":"From the depths of darkness","moods":["hopeless","lonely","ashamed"],
- "intro":"Yunus (peace be upon him) called out from the belly of the whale, in layers of darkness. His du'a admits his own part and affirms Allah's perfection.",
- "questions":["What does your 'darkness' look like at the moment?","Which part of it is circumstance, and which part, if any, did you contribute to?","What happens if you say 'there is no god but You, glory be to You' from inside that place?"],
- "intention":"From wherever I am, I will call on Allah with this du'a."},
-"17:82": {"theme":"A healing for the heart","moods":["distant","anxious","grief"],
- "intro":"The Quran describes itself as healing and mercy for believers. Reading it can be an act of care for yourself, not just duty.",
- "questions":["How has your relationship with the Quran felt lately: close, distant, guilty, avoided?","What part of yourself needs healing most right now?","If the Quran were speaking directly to that wound, what do you hope it would say?"],
- "intention":"I will read a few verses today slowly, as if they were written for me."}
+ "94:5": {
+  "context": "Surah Ash-Sharh is Makkan. It came to the Prophet ﷺ in a period of opposition and strain, reminding him of what Allah had already lifted from him. The promise is repeated in the next verse (94:6).",
+  "theme": "Hardship and hope",
+  "moods": [
+   "overwhelmed",
+   "hopeless"
+  ],
+  "intro": "Ease is not promised after the hardship, but with it. Notice: it may already be present somewhere in your life, small and easy to miss.",
+  "questions": [
+   "What is the hardest thing you are carrying right now? Name it plainly, without softening it.",
+   "Where, even a little, is there ease alongside it today? A person, a breath, a moment of relief?",
+   "If ease is already travelling with this hardship, what changes in how you hold it?"
+  ],
+  "intention": "Today I will notice one small ease and thank Allah for it."
+ },
+ "2:286": {
+  "context": "The closing verse of Surah Al-Baqarah (Madinan). The Prophet ﷺ is reported to have said that whoever recites the last two verses of this surah at night, they suffice him (Bukhari, Muslim). The verse moves from a reassurance into a du'a.",
+  "theme": "You are not asked for more than you can bear",
+  "moods": [
+   "overwhelmed",
+   "anxious"
+  ],
+  "intro": "Read this as a gentle correction to the voice that says you cannot cope. The verse does not deny that it is heavy; it says the weight is measured to you.",
+  "questions": [
+   "What feels like too much right now? List it as it comes.",
+   "Which of those things is truly yours to carry today, and which belong to tomorrow, or to others, or to Allah?",
+   "Think of a past burden you believed you couldn't bear. What got you through it?"
+  ],
+  "intention": "I will carry only today's share, and hand the rest to Allah."
+ },
+ "13:28": {
+  "context": "From Surah Ar-Ra'd. It describes believers whose hearts settle through remembrance of Allah, in contrast to those who demand signs and remain unsettled.",
+  "theme": "Where the heart finds rest",
+  "moods": [
+   "anxious",
+   "distant"
+  ],
+  "intro": "The verse names a cure for restlessness without dismissing it. Before reading, notice where your body holds tension.",
+  "questions": [
+   "Where do you feel unrest in your body right now? Chest, stomach, shoulders?",
+   "What do you usually reach for to quiet your heart, and does it work for long?",
+   "What would a few minutes of real remembrance (dhikr, du'a, silent presence) look like for you today?"
+  ],
+  "intention": "I will give my heart a few minutes of remembrance before I reach for anything else."
+ },
+ "2:152": {
+  "context": "From Surah Al-Baqarah (Madinan), following the verses on turning toward the Ka'bah and just before the call to patience and prayer. Allah invites remembrance and promises to remember His servants in return.",
+  "theme": "Being remembered",
+  "moods": [
+   "lonely",
+   "distant"
+  ],
+  "intro": "Notice the direction of the verse: when you remember Allah, you are remembered. You are held in mind long before you feel it.",
+  "questions": [
+   "When did you last feel remembered, truly seen by someone, or by Allah?",
+   "What gets in the way of remembering Him lately? Busyness, guilt, numbness?",
+   "If you are already remembered, what might you let go of trying to earn?"
+  ],
+  "intention": "I will remember Allah once today in my own words, and trust that I am remembered."
+ },
+ "93:3": {
+  "context": "Surah Ad-Duha is Makkan. According to reports, revelation had paused for a time and the Prophet ﷺ was distressed, while some mocked him. The surah answers with reassurance: Allah has not left or turned away from you.",
+  "theme": "You have not been forsaken",
+  "moods": [
+   "lonely",
+   "hopeless",
+   "distant"
+  ],
+  "intro": "This was revealed to comfort a heart that feared abandonment. Let it be said to you, by name, in your own situation.",
+  "questions": [
+   "Where do you feel abandoned or unseen right now, by people or by Allah?",
+   "What is the story your mind tells about why?",
+   "Imagine Allah saying 'I have not forsaken you' to that exact feeling. What happens inside you?"
+  ],
+  "intention": "When the feeling of abandonment rises, I will answer it with this verse."
+ },
+ "39:53": {
+  "context": "From Surah Az-Zumar (Makkan). Reports from the companions say it addressed people who had committed grave wrongs and wondered whether they could ever be forgiven. The verse opens the door to all of them.",
+  "theme": "Never despair of mercy",
+  "moods": [
+   "ashamed",
+   "hopeless"
+  ],
+  "intro": "Addressed to 'My servants who have transgressed against themselves', the first words are 'O My servants', not 'O sinners'. Notice the tenderness of how you are called.",
+  "questions": [
+   "What do you most struggle to forgive yourself for?",
+   "What would change if you believed Allah's mercy was larger than that thing?",
+   "What is one honest step toward Him you could take today? A du'a, a repair, a prayer?"
+  ],
+  "intention": "I will turn to Allah with what I am ashamed of rather than hide it from Him."
+ },
+ "3:139": {
+  "context": "From Surah Ali 'Imran (Madinan), revealed in connection with the Battle of Uhud, when the Muslims suffered losses and were shaken. It speaks to people in the middle of grief and defeat.",
+  "theme": "Do not weaken, do not grieve",
+  "moods": [
+   "grief",
+   "disappointed"
+  ],
+  "intro": "It was revealed after a painful loss. It doesn't forbid sorrow; it refuses to let sorrow convince you that you are finished.",
+  "questions": [
+   "What loss or setback are you still carrying?",
+   "Where has it made you feel smaller or weaker than you really are?",
+   "What strength or part of your faith is still intact, even now?"
+  ],
+  "intention": "I will let myself grieve without letting it define me."
+ },
+ "9:40": {
+  "context": "From Surah At-Tawbah (Madinan). It recalls the Hijrah, when the Prophet ﷺ and Abu Bakr (may Allah be pleased with him) hid in the cave of Thawr while being pursued.",
+  "theme": "Allah is with us",
+  "moods": [
+   "anxious",
+   "lonely"
+  ],
+  "intro": "Said in a cave, with pursuers close, by a man to his frightened companion. Imagine the stillness in that moment.",
+  "questions": [
+   "What is your 'cave' right now, the narrow place where you feel cornered?",
+   "Who or what is with you there that you may be overlooking?",
+   "How would you act today if you truly believed 'Allah is with us'?"
+  ],
+  "intention": "In my narrow place, I will say: Allah is with us."
+ },
+ "65:3": {
+  "context": "From Surah At-Talaq (Madinan). The verse before it says that whoever is mindful of Allah, He makes a way out for them, and this one adds that He provides from where they do not expect.",
+  "theme": "Reliance and provision",
+  "moods": [
+   "anxious",
+   "overwhelmed"
+  ],
+  "intro": "Tawakkul is not passivity; it is doing your part and releasing the outcome. Read it slowly, noticing what you are gripping.",
+  "questions": [
+   "What outcome are you trying hardest to control?",
+   "What is your part in it, and what is not yours?",
+   "What would it feel like to put your effort in and set the result down?"
+  ],
+  "intention": "I will do my part, then release the outcome to Allah."
+ },
+ "2:216": {
+  "context": "From Surah Al-Baqarah (Madinan). The verse begins with the prescription of fighting, which was hard for people. Its closing principle, that we may dislike what is good for us and like what is not, is widely taken as a general lesson, but the immediate context is fighting.",
+  "theme": "Not knowing the whole story",
+  "moods": [
+   "disappointed",
+   "grief"
+  ],
+  "intro": "A verse for a plan that fell apart. It doesn't call the pain unreal; it reminds you that your view is partial.",
+  "questions": [
+   "What did you want that you didn't get, or what happened that you didn't want?",
+   "What has a past disappointment turned out to give you, in hindsight?",
+   "What would it mean to trust that Allah sees the part you can't?"
+  ],
+  "intention": "I will hold my disappointment with trust that I see only part of the picture."
+ },
+ "50:16": {
+  "context": "From Surah Qaf (Makkan), which centres on creation, accountability and Allah's complete knowledge of us. The nearness here is about knowledge and awareness; the next verses speak of the two angels who record.",
+  "theme": "Closer than the jugular vein",
+  "moods": [
+   "lonely",
+   "distant",
+   "anxious"
+  ],
+  "intro": "He knows what your soul whispers to you. Nothing in you is hidden from Him, and that can be frightening, or deeply comforting.",
+  "questions": [
+   "What do you whisper only to yourself, the thing you've never said aloud?",
+   "What does it feel like to know He already hears it, with full knowledge and mercy?",
+   "What would you say to Him if you didn't have to polish it?"
+  ],
+  "intention": "I will speak honestly to Allah, without polishing my words."
+ },
+ "2:186": {
+  "context": "From Surah Al-Baqarah (Madinan). It sits in the middle of the verses on fasting in Ramadan, a quiet reminder that Allah is near and answers when called.",
+  "theme": "I am near",
+  "moods": [
+   "lonely",
+   "distant"
+  ],
+  "intro": "Notice that there is no intermediary in this verse. The question is asked, and the answer comes straight back: I am near.",
+  "questions": [
+   "What do you most want to ask for, if you let yourself ask?",
+   "What stops you from asking? Doubt, shame, feeling unworthy?",
+   "What would it mean to treat the answer, 'I am near', as true right now?"
+  ],
+  "intention": "I will ask Allah for what is on my heart tonight, plainly and specifically."
+ },
+ "20:25": {
+  "context": "From Surah Ta-Ha (Makkan). Musa (peace be upon him) makes this du'a after being told to go to Pharaoh. He asks for inner capacity before the mission.",
+  "theme": "Expand my chest",
+  "moods": [
+   "anxious",
+   "overwhelmed"
+  ],
+  "intro": "Musa (peace be upon him) asked for an inner capacity before the task itself. A du'a for when the heaviness is in your chest.",
+  "questions": [
+   "What task or conversation ahead feels bigger than you?",
+   "Where is your chest tight? What is it holding?",
+   "What would 'expansion' look like, not the problem disappearing, but you having more room within it?"
+  ],
+  "intention": "Before I face the thing I dread, I will make this du'a."
+ },
+ "57:23": {
+  "context": "From Surah Al-Hadid. It follows the verse that everything that befalls us is written in a record before it happens (57:22), and explains the purpose: not despairing over loss, nor boasting over gain.",
+  "theme": "Not grieving what's missed",
+  "moods": [
+   "grief",
+   "disappointed"
+  ],
+  "intro": "A verse about loosening our grip: what passed you by was never going to be held by your effort alone.",
+  "questions": [
+   "What have you lost or missed out on that you keep replaying?",
+   "What would it mean to grieve it, and still loosen your grip?",
+   "What blessing in your hands right now are you at risk of overlooking?"
+  ],
+  "intention": "I will name one thing I still have and be grateful for it."
+ },
+ "12:86": {
+  "context": "From Surah Yusuf (Makkan). Yaqub (peace be upon him) says this after losing Yusuf and then Binyamin. He had already said that patience is beautiful (12:83), and he still wept openly.",
+  "theme": "Bringing my sorrow to Allah",
+  "moods": [
+   "grief",
+   "lonely"
+  ],
+  "intro": "Yaqub (peace be upon him) lost a son and wept until his sight faded. He did not hide it; he took it to Allah. This is grief done with faith.",
+  "questions": [
+   "What sorrow have you been holding quietly, or in front of people but not in front of Allah?",
+   "What would it mean to complain to Him, as Yaqub did, with full honesty?",
+   "Is there someone safe you could also share this with?"
+  ],
+  "intention": "I will bring my sorrow to Allah tonight, in full."
+ },
+ "3:173": {
+  "context": "From Surah Ali 'Imran (Madinan), connected by the commentators with the aftermath of Uhud, when the believers were told that a force had gathered against them. Ibn 'Abbas is reported to have said 'Hasbunallah wa ni'mal wakeel' was said by Ibrahim when thrown into the fire and by the Prophet ﷺ when told of that force (Bukhari).",
+  "theme": "Sufficient for us is Allah",
+  "moods": [
+   "anxious",
+   "overwhelmed"
+  ],
+  "intro": "Said when people warned that the odds were against them. The warning increased them in faith. Notice what fear does to you, and what this phrase does back.",
+  "questions": [
+   "What are you afraid of right now? What are people telling you to fear?",
+   "What does 'Allah is sufficient for us' take off your shoulders?",
+   "Which fear is realistic and needs action, and which just needs to be handed over?"
+  ],
+  "intention": "When fear speaks loudly, I will answer with: Hasbunallahu wa ni'mal wakeel."
+ },
+ "64:11": {
+  "context": "From Surah At-Taghabun. The surah speaks of gain and loss and of wealth and family as trials. This verse says nothing befalls us except by Allah's permission, and that faith brings guidance to the heart.",
+  "theme": "Hardship and the guided heart",
+  "moods": [
+   "grief",
+   "disappointed",
+   "overwhelmed"
+  ],
+  "intro": "Notice the promise here: whoever believes in Allah, He guides their heart. The guidance is for the heart, in the middle of the hardship.",
+  "questions": [
+   "What has recently struck you that you didn't expect or choose?",
+   "How is your heart responding right now: resisting, numb, softening?",
+   "What would 'guidance for the heart' look like in this? Calm, clarity, patience?"
+  ],
+  "intention": "I will ask Allah to guide my heart through what has happened."
+ },
+ "7:23": {
+  "context": "From Surah Al-A'raf (Makkan), in the account of Adam and Hawwa (peace be upon them) in Paradise. After their mistake, they said this du'a and were forgiven, in contrast to Iblis, who argued and refused.",
+  "theme": "Owning a mistake and coming back",
+  "moods": [
+   "ashamed",
+   "distant"
+  ],
+  "intro": "The first words of repentance in human history: no excuses, no blaming, just 'we have wronged ourselves'. Adam and Hawwa (peace be upon them) came back instead of hiding.",
+  "questions": [
+   "What are you carrying that you haven't owned or brought to Allah?",
+   "What's the difference between guilt that pushes you away and guilt that brings you back?",
+   "What would turning back look like today, in words, in action, or in repair?"
+  ],
+  "intention": "I will own what I've done, ask forgiveness, and not stay in hiding."
+ },
+ "21:87": {
+  "context": "From Surah Al-Anbiya (Makkan). Yunus (peace be upon him), called 'the man of the fish', left his people in anger before being given permission and was swallowed by a great fish. 'The darknesses' are usually understood as the night, the sea and the fish.",
+  "theme": "From the depths of darkness",
+  "moods": [
+   "hopeless",
+   "lonely",
+   "ashamed"
+  ],
+  "intro": "Yunus (peace be upon him) called out from the belly of the whale, in layers of darkness. His du'a admits his own part and affirms Allah's perfection.",
+  "questions": [
+   "What does your 'darkness' look like at the moment?",
+   "Which part of it is circumstance, and which part, if any, did you contribute to?",
+   "What happens if you say 'there is no god but You, glory be to You' from inside that place?"
+  ],
+  "intention": "From wherever I am, I will call on Allah with this du'a."
+ },
+ "17:82": {
+  "context": "From Surah Al-Isra (Makkan). The Quran is described as healing and mercy for believers. The same verse notes that it increases the wrongdoers only in loss, so how one approaches it matters.",
+  "theme": "A healing for the heart",
+  "moods": [
+   "distant",
+   "anxious",
+   "grief"
+  ],
+  "intro": "The Quran describes itself as healing and mercy for believers. Reading it can be an act of care for yourself, not just duty.",
+  "questions": [
+   "How has your relationship with the Quran felt lately: close, distant, guilty, avoided?",
+   "What part of yourself needs healing most right now?",
+   "If the Quran were speaking directly to that wound, what do you hope it would say?"
+  ],
+  "intention": "I will read a few verses today slowly, as if they were written for me."
+ }
 }

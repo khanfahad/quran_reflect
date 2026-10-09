@@ -53,7 +53,8 @@
         '<div class="breath" aria-hidden="true"></div><p style="text-align:center" class="quote">Breathe in. Breathe out. Say: <em>Bismillah</em>.</p>'+
         '<div class="row"><a class="btn ghost" href="#/browse">Back</a><button class="btn" data-go="1">I am here</button></div>';
     } else if(step===1){
-      h+='<h1>Read</h1>'+verseBlock(v)+'<p class="quote">'+esc(v.intro)+'</p>'+
+      h+='<h1>Read</h1>'+verseBlock(v)+'<details class="card ctx"><summary>About this verse</summary><p>'+esc(v.context)+'</p></details>'+
+        '<p class="quote">'+esc(v.intro)+'</p>'+
         '<p class="small">Read it once slowly in Arabic if you can, then once in translation, as though it were said to you personally.</p>'+
         '<div class="row"><button class="btn ghost" data-go="0">Back</button><button class="btn" data-go="2">Reflect</button></div>';
     } else if(step===2){

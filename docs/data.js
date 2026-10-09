@@ -6,6 +6,7 @@ window.VERSES = [
   "arabic": "فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا",
   "transliteration": "Fainna maAAa alAAusri yusran",
   "translation": "For indeed, with hardship [will be] ease",
+  "context": "Surah Ash-Sharh is Makkan. It came to the Prophet ﷺ in a period of opposition and strain, reminding him of what Allah had already lifted from him. The promise is repeated in the next verse (94:6).",
   "theme": "Hardship and hope",
   "moods": [
    "overwhelmed",
@@ -26,6 +27,7 @@ window.VERSES = [
   "arabic": "لَا يُكَلِّفُ ٱللَّهُ نَفۡسًا إِلَّا وُسۡعَهَاۚ لَهَا مَا كَسَبَتۡ وَعَلَيۡهَا مَا ٱكۡتَسَبَتۡۗ رَبَّنَا لَا تُؤَاخِذۡنَآ إِن نَّسِينَآ أَوۡ أَخۡطَأۡنَاۚ رَبَّنَا وَلَا تَحۡمِلۡ عَلَيۡنَآ إِصۡرٗا كَمَا حَمَلۡتَهُۥ عَلَى ٱلَّذِينَ مِن قَبۡلِنَاۚ رَبَّنَا وَلَا تُحَمِّلۡنَا مَا لَا طَاقَةَ لَنَا بِهِۦۖ وَٱعۡفُ عَنَّا وَٱغۡفِرۡ لَنَا وَٱرۡحَمۡنَآۚ أَنتَ مَوۡلَىٰنَا فَٱنصُرۡنَا عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
   "transliteration": "La yukallifu Allahu nafsan illa wusAAaha laha ma kasabat waAAalayha ma iktasabat rabbana la tuakhithna in naseena aw akhtana rabbana wala tahmil AAalayna isran kama hamaltahu AAala allatheena min qablina rabbana wala tuhammilna ma la taqata lana bihi waoAAfu AAanna waighfir lana wairhamna anta mawlana faonsurna AAala alqawmi alkafireena",
   "translation": "Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people",
+  "context": "The closing verse of Surah Al-Baqarah (Madinan). The Prophet ﷺ is reported to have said that whoever recites the last two verses of this surah at night, they suffice him (Bukhari, Muslim). The verse moves from a reassurance into a du'a.",
   "theme": "You are not asked for more than you can bear",
   "moods": [
    "overwhelmed",
@@ -46,6 +48,7 @@ window.VERSES = [
   "arabic": "ٱلَّذِينَ ءَامَنُواْ وَتَطۡمَئِنُّ قُلُوبُهُم بِذِكۡرِ ٱللَّهِۗ أَلَا بِذِكۡرِ ٱللَّهِ تَطۡمَئِنُّ ٱلۡقُلُوبُ",
   "transliteration": "Allatheena amanoo watatmainnu quloobuhum bithikri Allahi ala bithikri Allahi tatmainnu alquloobu",
   "translation": "Those who have believed and whose hearts are assured by the remembrance of Allah. Unquestionably, by the remembrance of Allah hearts are assured",
+  "context": "From Surah Ar-Ra'd. It describes believers whose hearts settle through remembrance of Allah, in contrast to those who demand signs and remain unsettled.",
   "theme": "Where the heart finds rest",
   "moods": [
    "anxious",
@@ -66,6 +69,7 @@ window.VERSES = [
   "arabic": "فَٱذۡكُرُونِيٓ أَذۡكُرۡكُمۡ وَٱشۡكُرُواْ لِي وَلَا تَكۡفُرُونِ",
   "transliteration": "Faothkuroonee athkurkum waoshkuroo lee wala takfurooni",
   "translation": "So remember Me; I will remember you. And be grateful to Me and do not deny Me",
+  "context": "From Surah Al-Baqarah (Madinan), following the verses on turning toward the Ka'bah and just before the call to patience and prayer. Allah invites remembrance and promises to remember His servants in return.",
   "theme": "Being remembered",
   "moods": [
    "lonely",
@@ -86,6 +90,7 @@ window.VERSES = [
   "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
   "transliteration": "Ma waddaAAaka rabbuka wama qala",
   "translation": "Your Lord has not taken leave of you, [O Muhammad], nor has He detested [you]",
+  "context": "Surah Ad-Duha is Makkan. According to reports, revelation had paused for a time and the Prophet ﷺ was distressed, while some mocked him. The surah answers with reassurance: Allah has not left or turned away from you.",
   "theme": "You have not been forsaken",
   "moods": [
    "lonely",
@@ -107,6 +112,7 @@ window.VERSES = [
   "arabic": "۞قُلۡ يَٰعِبَادِيَ ٱلَّذِينَ أَسۡرَفُواْ عَلَىٰٓ أَنفُسِهِمۡ لَا تَقۡنَطُواْ مِن رَّحۡمَةِ ٱللَّهِۚ إِنَّ ٱللَّهَ يَغۡفِرُ ٱلذُّنُوبَ جَمِيعًاۚ إِنَّهُۥ هُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ",
   "transliteration": "Qul ya AAibadiya allatheena asrafoo AAala anfusihim la taqnatoo min rahmati Allahi inna Allaha yaghfiru alththunooba jameeAAan innahu huwa alghafooru alrraheemu",
   "translation": "Say, \"O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful",
+  "context": "From Surah Az-Zumar (Makkan). Reports from the companions say it addressed people who had committed grave wrongs and wondered whether they could ever be forgiven. The verse opens the door to all of them.",
   "theme": "Never despair of mercy",
   "moods": [
    "ashamed",
@@ -127,6 +133,7 @@ window.VERSES = [
   "arabic": "وَلَا تَهِنُواْ وَلَا تَحۡزَنُواْ وَأَنتُمُ ٱلۡأَعۡلَوۡنَ إِن كُنتُم مُّؤۡمِنِينَ",
   "transliteration": "Wala tahinoo wala tahzanoo waantumu alaAAlawna in kuntum mumineena",
   "translation": "So do not weaken and do not grieve, and you will be superior if you are [true] believers",
+  "context": "From Surah Ali 'Imran (Madinan), revealed in connection with the Battle of Uhud, when the Muslims suffered losses and were shaken. It speaks to people in the middle of grief and defeat.",
   "theme": "Do not weaken, do not grieve",
   "moods": [
    "grief",
@@ -147,6 +154,7 @@ window.VERSES = [
   "arabic": "إِلَّا تَنصُرُوهُ فَقَدۡ نَصَرَهُ ٱللَّهُ إِذۡ أَخۡرَجَهُ ٱلَّذِينَ كَفَرُواْ ثَانِيَ ٱثۡنَيۡنِ إِذۡ هُمَا فِي ٱلۡغَارِ إِذۡ يَقُولُ لِصَٰحِبِهِۦ لَا تَحۡزَنۡ إِنَّ ٱللَّهَ مَعَنَاۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيۡهِ وَأَيَّدَهُۥ بِجُنُودٖ لَّمۡ تَرَوۡهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُواْ ٱلسُّفۡلَىٰۗ وَكَلِمَةُ ٱللَّهِ هِيَ ٱلۡعُلۡيَاۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
   "transliteration": "Illa tansuroohu faqad nasarahu Allahu ith akhrajahu allatheena kafaroo thaniya ithnayni ith huma fee alghari ith yaqoolu lisahibihi la tahzan inna Allaha maAAana faanzala Allahu sakeenatahu AAalayhi waayyadahu bijunoodin lam tarawha wajaAAala kalimata allatheena kafaroo alssufla wakalimatu Allahi hiya alAAulya waAllahu AAazeezun hakeemun",
   "translation": "If you do not aid the Prophet - Allah has already aided him when those who disbelieved had driven him out [of Makkah] as one of two, when they were in the cave and he said to his companion, \"Do not grieve; indeed Allah is with us.\" And Allah sent down his tranquillity upon him and supported him with angels you did not see and made the word of those who disbelieved the lowest, while the word of Allah - that is the highest. And Allah is Exalted in Might and Wise",
+  "context": "From Surah At-Tawbah (Madinan). It recalls the Hijrah, when the Prophet ﷺ and Abu Bakr (may Allah be pleased with him) hid in the cave of Thawr while being pursued.",
   "theme": "Allah is with us",
   "moods": [
    "anxious",
@@ -167,6 +175,7 @@ window.VERSES = [
   "arabic": "وَيَرۡزُقۡهُ مِنۡ حَيۡثُ لَا يَحۡتَسِبُۚ وَمَن يَتَوَكَّلۡ عَلَى ٱللَّهِ فَهُوَ حَسۡبُهُۥٓۚ إِنَّ ٱللَّهَ بَٰلِغُ أَمۡرِهِۦۚ قَدۡ جَعَلَ ٱللَّهُ لِكُلِّ شَيۡءٖ قَدۡرٗا",
   "transliteration": "Wayarzuqhu min haythu la yahtasibu waman yatawakkal AAala Allahi fahuwa hasbuhu inna Allaha balighu amrihi qad jaAAala Allahu likulli shayin qadran",
   "translation": "And will provide for him from where he does not expect. And whoever relies upon Allah - then He is sufficient for him. Indeed, Allah will accomplish His purpose. Allah has already set for everything a [decreed] extent",
+  "context": "From Surah At-Talaq (Madinan). The verse before it says that whoever is mindful of Allah, He makes a way out for them, and this one adds that He provides from where they do not expect.",
   "theme": "Reliance and provision",
   "moods": [
    "anxious",
@@ -187,6 +196,7 @@ window.VERSES = [
   "arabic": "كُتِبَ عَلَيۡكُمُ ٱلۡقِتَالُ وَهُوَ كُرۡهٞ لَّكُمۡۖ وَعَسَىٰٓ أَن تَكۡرَهُواْ شَيۡـٔٗا وَهُوَ خَيۡرٞ لَّكُمۡۖ وَعَسَىٰٓ أَن تُحِبُّواْ شَيۡـٔٗا وَهُوَ شَرّٞ لَّكُمۡۚ وَٱللَّهُ يَعۡلَمُ وَأَنتُمۡ لَا تَعۡلَمُونَ",
   "transliteration": "Kutiba AAalaykumu alqitalu wahuwa kurhun lakum waAAasa an takrahoo shayan wahuwa khayrun lakum waAAasa an tuhibboo shayan wahuwa sharrun lakum waAllahu yaAAlamu waantum la taAAlamoona",
   "translation": "Fighting has been enjoined upon you while it is hateful to you. But perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allah Knows, while you know not",
+  "context": "From Surah Al-Baqarah (Madinan). The verse begins with the prescription of fighting, which was hard for people. Its closing principle, that we may dislike what is good for us and like what is not, is widely taken as a general lesson, but the immediate context is fighting.",
   "theme": "Not knowing the whole story",
   "moods": [
    "disappointed",
@@ -207,6 +217,7 @@ window.VERSES = [
   "arabic": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ وَنَعۡلَمُ مَا تُوَسۡوِسُ بِهِۦ نَفۡسُهُۥۖ وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنۡ حَبۡلِ ٱلۡوَرِيدِ",
   "transliteration": "Walaqad khalaqna alinsana wanaAAlamu ma tuwaswisu bihi nafsuhu wanahnu aqrabu ilayhi min habli alwareedi",
   "translation": "And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein",
+  "context": "From Surah Qaf (Makkan), which centres on creation, accountability and Allah's complete knowledge of us. The nearness here is about knowledge and awareness; the next verses speak of the two angels who record.",
   "theme": "Closer than the jugular vein",
   "moods": [
    "lonely",
@@ -228,6 +239,7 @@ window.VERSES = [
   "arabic": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌۖ أُجِيبُ دَعۡوَةَ ٱلدَّاعِ إِذَا دَعَانِۖ فَلۡيَسۡتَجِيبُواْ لِي وَلۡيُؤۡمِنُواْ بِي لَعَلَّهُمۡ يَرۡشُدُونَ",
   "transliteration": "Waitha saalaka AAibadee AAannee fainnee qareebun ojeebu daAAwata alddaAAi itha daAAani falyastajeeboo lee walyuminoo bee laAAallahum yarshudoona",
   "translation": "And when My servants ask you, [O Muhammad], concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me [by obedience] and believe in Me that they may be [rightly] guided",
+  "context": "From Surah Al-Baqarah (Madinan). It sits in the middle of the verses on fasting in Ramadan, a quiet reminder that Allah is near and answers when called.",
   "theme": "I am near",
   "moods": [
    "lonely",
@@ -248,6 +260,7 @@ window.VERSES = [
   "arabic": "قَالَ رَبِّ ٱشۡرَحۡ لِي صَدۡرِي",
   "transliteration": "Qala rabbi ishrah lee sadree",
   "translation": "[Moses] said, \"My Lord, expand for me my breast [with assurance]",
+  "context": "From Surah Ta-Ha (Makkan). Musa (peace be upon him) makes this du'a after being told to go to Pharaoh. He asks for inner capacity before the mission.",
   "theme": "Expand my chest",
   "moods": [
    "anxious",
@@ -268,6 +281,7 @@ window.VERSES = [
   "arabic": "لِّكَيۡلَا تَأۡسَوۡاْ عَلَىٰ مَا فَاتَكُمۡ وَلَا تَفۡرَحُواْ بِمَآ ءَاتَىٰكُمۡۗ وَٱللَّهُ لَا يُحِبُّ كُلَّ مُخۡتَالٖ فَخُورٍ",
   "transliteration": "Likayla tasaw AAala ma fatakum wala tafrahoo bima atakum waAllahu la yuhibbu kulla mukhtalin fakhoorin",
   "translation": "In order that you not despair over what has eluded you and not exult [in pride] over what He has given you. And Allah does not like everyone self-deluded and boastful",
+  "context": "From Surah Al-Hadid. It follows the verse that everything that befalls us is written in a record before it happens (57:22), and explains the purpose: not despairing over loss, nor boasting over gain.",
   "theme": "Not grieving what's missed",
   "moods": [
    "grief",
@@ -288,6 +302,7 @@ window.VERSES = [
   "arabic": "قَالَ إِنَّمَآ أَشۡكُواْ بَثِّي وَحُزۡنِيٓ إِلَى ٱللَّهِ وَأَعۡلَمُ مِنَ ٱللَّهِ مَا لَا تَعۡلَمُونَ",
   "transliteration": "Qala innama ashkoo baththee wahuznee ila Allahi waaAAlamu mina Allahi ma la taAAlamoona",
   "translation": "He said, \"I only complain of my suffering and my grief to Allah, and I know from Allah that which you do not know",
+  "context": "From Surah Yusuf (Makkan). Yaqub (peace be upon him) says this after losing Yusuf and then Binyamin. He had already said that patience is beautiful (12:83), and he still wept openly.",
   "theme": "Bringing my sorrow to Allah",
   "moods": [
    "grief",
@@ -308,6 +323,7 @@ window.VERSES = [
   "arabic": "ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدۡ جَمَعُواْ لَكُمۡ فَٱخۡشَوۡهُمۡ فَزَادَهُمۡ إِيمَٰنٗا وَقَالُواْ حَسۡبُنَا ٱللَّهُ وَنِعۡمَ ٱلۡوَكِيلُ",
   "transliteration": "Allatheena qala lahumu alnnasu inna alnnasa qad jamaAAoo lakum faikhshawhum fazadahum eemanan waqaloo hasbuna Allahu waniAAma alwakeelu",
   "translation": "Those to whom hypocrites said, \"Indeed, the people have gathered against you, so fear them.\" But it [merely] increased them in faith, and they said, \"Sufficient for us is Allah, and [He is] the best Disposer of affairs",
+  "context": "From Surah Ali 'Imran (Madinan), connected by the commentators with the aftermath of Uhud, when the believers were told that a force had gathered against them. Ibn 'Abbas is reported to have said 'Hasbunallah wa ni'mal wakeel' was said by Ibrahim when thrown into the fire and by the Prophet ﷺ when told of that force (Bukhari).",
   "theme": "Sufficient for us is Allah",
   "moods": [
    "anxious",
@@ -328,6 +344,7 @@ window.VERSES = [
   "arabic": "مَآ أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذۡنِ ٱللَّهِۗ وَمَن يُؤۡمِنۢ بِٱللَّهِ يَهۡدِ قَلۡبَهُۥۚ وَٱللَّهُ بِكُلِّ شَيۡءٍ عَلِيمٞ",
   "transliteration": "Ma asaba min museebatin illa biithni Allahi waman yumin biAllahi yahdi qalbahu waAllahu bikulli shayin AAaleemun",
   "translation": "No disaster strikes except by permission of Allah. And whoever believes in Allah - He will guide his heart. And Allah is Knowing of all things",
+  "context": "From Surah At-Taghabun. The surah speaks of gain and loss and of wealth and family as trials. This verse says nothing befalls us except by Allah's permission, and that faith brings guidance to the heart.",
   "theme": "Hardship and the guided heart",
   "moods": [
    "grief",
@@ -349,6 +366,7 @@ window.VERSES = [
   "arabic": "قَالَا رَبَّنَا ظَلَمۡنَآ أَنفُسَنَا وَإِن لَّمۡ تَغۡفِرۡ لَنَا وَتَرۡحَمۡنَا لَنَكُونَنَّ مِنَ ٱلۡخَٰسِرِينَ",
   "transliteration": "Qala rabbana thalamna anfusana wain lam taghfir lana watarhamna lanakoonanna mina alkhasireena",
   "translation": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers",
+  "context": "From Surah Al-A'raf (Makkan), in the account of Adam and Hawwa (peace be upon them) in Paradise. After their mistake, they said this du'a and were forgiven, in contrast to Iblis, who argued and refused.",
   "theme": "Owning a mistake and coming back",
   "moods": [
    "ashamed",
@@ -369,6 +387,7 @@ window.VERSES = [
   "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبٗا فَظَنَّ أَن لَّن نَّقۡدِرَ عَلَيۡهِ فَنَادَىٰ فِي ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبۡحَٰنَكَ إِنِّي كُنتُ مِنَ ٱلظَّـٰلِمِينَ",
   "transliteration": "Watha alnnooni ith thahaba mughadiban fathanna an lan naqdira AAalayhi fanada fee alththulumati an la ilaha illa anta subhanaka innee kuntu mina alththalimeena",
   "translation": "And [mention] the man of the fish, when he went off in anger and thought that We would not decree [anything] upon him. And he called out within the darknesses, \"There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers",
+  "context": "From Surah Al-Anbiya (Makkan). Yunus (peace be upon him), called 'the man of the fish', left his people in anger before being given permission and was swallowed by a great fish. 'The darknesses' are usually understood as the night, the sea and the fish.",
   "theme": "From the depths of darkness",
   "moods": [
    "hopeless",
@@ -390,6 +409,7 @@ window.VERSES = [
   "arabic": "وَنُنَزِّلُ مِنَ ٱلۡقُرۡءَانِ مَا هُوَ شِفَآءٞ وَرَحۡمَةٞ لِّلۡمُؤۡمِنِينَ وَلَا يَزِيدُ ٱلظَّـٰلِمِينَ إِلَّا خَسَارٗا",
   "transliteration": "Wanunazzilu mina alqurani ma huwa shifaon warahmatun lilmumineena wala yazeedu alththalimeena illa khasaran",
   "translation": "And We send down of the Qur'an that which is healing and mercy for the believers, but it does not increase the wrongdoers except in loss",
+  "context": "From Surah Al-Isra (Makkan). The Quran is described as healing and mercy for believers. The same verse notes that it increases the wrongdoers only in loss, so how one approaches it matters.",
   "theme": "A healing for the heart",
   "moods": [
    "distant",
